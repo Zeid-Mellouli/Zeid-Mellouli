@@ -47,7 +47,7 @@ As a student, I'm constantly exploring new tools and working on projects that pu
 
 ## Let’s Connect!  
 
-- 💼 [LinkedIn](www.linkedin.com/in/zeid-mellouli-3a98a2223)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/zeid-mellouli-3a98a2223)  
 - 🌐 [Portfolio](https://your-portfolio-link.com)  
 - 📫 [Email Me](mailto:zeidmellouli770@gmail.com)  
 
