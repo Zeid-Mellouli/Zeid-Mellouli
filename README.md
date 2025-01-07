@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!  
 
-![Welcome GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+
 
 ---
 
