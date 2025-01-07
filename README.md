@@ -20,10 +20,13 @@ As a student, I'm constantly exploring new tools and working on projects that pu
 
 ### 🌐 Web Development  
 - HTML, CSS, JavaScript  
-- Node.js   
+- Node.js
+- Python  
 
 ### 🤖 Artificial Intelligence  
-- Chatbot Development  
+- Chatbot Development
+- Machine Learning Basics  
+- Natural Language Processing (NLP)  
 
 ### 🎨 Design  
 - Photoshop  
