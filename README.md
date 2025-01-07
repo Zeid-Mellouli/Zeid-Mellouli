@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!  
 
-![Welcome GIF](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)  
+![Welcome GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ---
 
@@ -29,7 +29,7 @@ As a student, I'm constantly exploring new tools and working on projects that pu
 - Photoshop  
 - Figma  
 
-![Web Dev GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+![Web Dev GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZncXE3Y3ZhNjB5eWJia21nNDUzNzJ3MG8yYXp1ajJyaTVxczE0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S60CrN9iMxFlyp7uM8/giphy.gif)  
 
 ---
 
@@ -50,4 +50,5 @@ As a student, I'm constantly exploring new tools and working on projects that pu
 
 ---
 
-![Footer GIF](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)  
+ ![Footer](https://github.com/user-attachments/assets/3d3115f9-7601-4344-ae1c-34827e405ead)
+
