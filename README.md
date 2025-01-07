@@ -11,7 +11,8 @@ Hello! I'm **[Your Name]**, a university student specializing in **Software Engi
 I am passionate about learning and growing my skills in **AI technologies** and applying them to build impactful solutions.  
 As a student, I'm constantly exploring new tools and working on projects that push the boundaries of innovation.  
 
-![Coding GIF](https://fr.pinterest.com/pin/86342517851352328)  
+![Coding GIF](![cof](https://github.com/user-attachments/assets/40c8a608-7dd2-4acb-86d4-4ad347237fdd)
+)  
 
 ---
 
